@@ -5,7 +5,7 @@ import Outlinebtn from './Outlinebtn'
 import Bgbutton from './Bgbutton'
 import Card from './Card'
 import Servicesection from './Servicesection'
-import Servicing from './Servicing'
+
 import Homecontact from './Homecontact'
 import Count from './Count'
 function Home() {
@@ -20,8 +20,7 @@ function Home() {
                        <div className="hero-section">
                            <h6 className='clr'>It Solution, Service Company</h6>
                            <h1>Transforming Into <span className='clr'>Digital Software</span> Company.</h1>
-                           <p className='text-muted mt-3'>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Repellat, eligendi?
-                           cing elit. Repellat, eligendi
+                           <p className='text-muted mt-3'>Contact us today for details about our offerings. We can tailor our content to the specific needs of clients.
                            </p>
                            <div className="row mt-4">
                                <div className="col-md-3">
@@ -81,7 +80,7 @@ function Home() {
             </div>
 
             <Servicesection/>
-          <Servicing/>
+         
           <Homecontact/>
           <Count/>
     <Footer/>

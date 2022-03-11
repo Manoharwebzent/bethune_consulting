@@ -9,7 +9,8 @@ function Homecontact() {
                <div className="row">
                     <div className="col-md-8">
                         <div className="home-contact-text">
-                            <h1>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dolor, cum!</h1>
+                            <h1>Keep everyone happy <span className='clr'>.</span> <br></br>
+Keep everyone productive<span className='clr'>.</span></h1>
                             </div>
                         </div>
                         <div className="col-md-4">
@@ -26,7 +27,7 @@ function Homecontact() {
                                     <span><i className='fas fa-envelope'></i></span>
                                     </div>
                                     <div className="home-contact-text">
-                                    <p>demo@email.com</p>
+                                    <p>jonathanbethune@protonmail.com</p>
                                     </div>
                                 </div>
                             </div>
