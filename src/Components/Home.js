@@ -24,7 +24,7 @@ function Home() {
                            </p>
                            <div className="row mt-4">
                                <div className="col-md-3">
-                                    <Bgbutton name="Our Service"/>
+                                    <Bgbutton name="Our Services"/>
                                    </div>
                                    <div className="col-md-6">
                                        <Outlinebtn name="Contact Us" />
