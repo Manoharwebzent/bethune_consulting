@@ -2,7 +2,8 @@ import React from 'react'
 import './Style.css'
 import { Link } from 'react-router-dom'
 import {NavLink} from 'react-router-dom'
-import Bgbutton from './Bgbutton'
+import Linkedin from './Linkedin'
+
 function Navbar() {
   return (
     <>
@@ -32,7 +33,7 @@ function Navbar() {
             </li>
             
           </ul>
-          <Bgbutton name="Linkedin"/>
+          <Linkedin/>
         </div>
       </nav>
       </div>

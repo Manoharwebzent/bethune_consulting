@@ -27,6 +27,21 @@ body,html{
     background-color: white;
     box-shadow: var(--navbar-shadow);
 }
+
+.linkedin a{
+    background-color: var(--primary-clr);
+    padding: 8px 20px;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    color: white;
+
+}
+.linkedin i{
+    font-size: 25px;
+   
+}
 .navbar-brand{
     display: flex;
     align-items: center;
