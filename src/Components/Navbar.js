@@ -32,7 +32,7 @@ function Navbar() {
             </li>
             
           </ul>
-          <Bgbutton name="Consult Now"/>
+          <Bgbutton name="Linkedin"/>
         </div>
       </nav>
       </div>
