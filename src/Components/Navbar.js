@@ -11,7 +11,7 @@ function Navbar() {
     <div className="container">
 
     <nav className="navbar navbar-expand-lg navbar-light">
-        <Link to="/Home" className="navbar-brand" >
+        <Link to="/" className="navbar-brand" >
             <img src="./assets/images/logo-new.png" alt="" /> 
             </Link>
         <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
@@ -26,15 +26,10 @@ function Navbar() {
               <NavLink to="/about" activeClassName="active" >About</NavLink>
             </li>
             <li className="nav-item dropdown position-relative">
-              <a  href='/' className="dropdown-toggle" activeClassName="active" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Services</a>
+              <a href='/' className="dropdown-toggle" activeClassName="active" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Services</a>
               <div class="dropdown-menu my-dd" aria-labelledby="navbarDropdown">
-          <a class="dropdown-item" href="/">DevOps</a>
-          <a class="dropdown-item" href="/">Data Science</a>
-         
-          <a class="dropdown-item" href="/">Application Development</a>
-         
-          <a class="dropdown-item" href="/">Technology Training</a>
-          <a class="dropdown-item" href="/">Digital Transformation</a>
+          <Link to="/services/devops" class="dropdown-item">DevOps</Link>
+          
         </div>
             </li>
             <li className="nav-item">

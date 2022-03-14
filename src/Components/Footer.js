@@ -36,9 +36,9 @@ function Footer() {
                         <li className='nav-item'>
                           <Link to='/about' className='nav-link' ><i class="fas fa-angle-right clr mr-2"></i> About</Link>
                         </li>
-                        <li className='nav-item'>
+                        {/* <li className='nav-item'>
                           <Link to='/services' className='nav-link' ><i class="fas fa-angle-right clr mr-2"></i> Services</Link>
-                        </li>
+                        </li> */}
                         <li className='nav-item'>
                           <Link to='/contact' className='nav-link' ><i class="fas fa-angle-right clr mr-2"></i> Contact</Link>
                         </li>
