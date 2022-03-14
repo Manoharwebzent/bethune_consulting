@@ -28,7 +28,11 @@ function Navbar() {
             <li className="nav-item dropdown position-relative">
               <a href='/' className="dropdown-toggle" activeClassName="active" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Services</a>
               <div class="dropdown-menu my-dd" aria-labelledby="navbarDropdown">
-          <Link to="/services/devops" class="dropdown-item">DevOps</Link>
+          <Link to="/devops" class="dropdown-item">DevOps</Link>
+          <Link to="/data-science" class="dropdown-item">Data Service</Link>
+          <Link to="/application-development" class="dropdown-item">Application Development</Link>
+          <Link to="/technology-training" class="dropdown-item">Technology Training</Link>
+          <Link to="/" class="dropdown-item">Digital Transformation</Link>
           
         </div>
             </li>
