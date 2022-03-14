@@ -5,13 +5,15 @@ import Outlinebtn from './Outlinebtn'
 import Bgbutton from './Bgbutton'
 import Card from './Card'
 import Servicesection from './Servicesection'
-
 import Homecontact from './Homecontact'
 import Count from './Count'
+import Profile from './Profile'
+
 function Home() {
   return (
     <>
     <Navbar/>
+   
     <div className="container-fluid mt-5">
         <div className="hero-image">
            <div className="container">
@@ -80,7 +82,7 @@ function Home() {
             </div>
 
             <Servicesection/>
-         
+         <Profile/>
           <Homecontact/>
           <Count/>
     <Footer/>

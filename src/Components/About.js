@@ -1,11 +1,16 @@
 import React from 'react'
 import Navbar from './Navbar'
 import Footer from './Footer'
+import Innerheader from './Innerheader'
+import Breadcrupmb from './Breadcrupmb'
 function About() {
     return (
         <>
         <Navbar/>
-        <h1>About</h1>
+        <Innerheader title="About"/>
+        <div className="container-fluid py-5">
+          
+        </div>
         <Footer/>
         </>
       )
