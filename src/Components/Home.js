@@ -12,7 +12,7 @@ function Home() {
   return (
     <>
     <Navbar/>
-    <div className="container-fluid">
+    <div className="container-fluid mt-5">
         <div className="hero-image">
            <div className="container">
                <div className="row">

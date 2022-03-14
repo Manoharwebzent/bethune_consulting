@@ -55,7 +55,7 @@ function Footer() {
                           <i class="fas fa-location-arrow"></i>
                             </div>
                             <div className="address-text">
-                              <span>House- 65/4, Zonson street-3/5, London, UK</span>
+                              <span>Lorem ipsum dolor sit amet.</span>
                               </div>
                           </div>
                         <div className="address-list">

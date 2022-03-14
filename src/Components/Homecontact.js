@@ -27,7 +27,7 @@ Keep everyone productive<span className='clr'>.</span></h1>
                                     <span><i className='fas fa-envelope'></i></span>
                                     </div>
                                     <div className="home-contact-text">
-                                    <p>jonathanbethune@protonmail.com</p>
+                                    <p>jonathanbethune@protonmail.com</p> 
                                     </div>
                                 </div>
                             </div>
