@@ -32,7 +32,7 @@ function Navbar() {
           <Link to="/data-science" class="dropdown-item">Data Service</Link>
           <Link to="/application-development" class="dropdown-item">Application Development</Link>
           <Link to="/technology-training" class="dropdown-item">Technology Training</Link>
-          <Link to="/" class="dropdown-item">Digital Transformation</Link>
+          <Link to="/digital-transformation" class="dropdown-item">Digital Transformation</Link>
           
         </div>
             </li>

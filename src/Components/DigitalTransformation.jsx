@@ -8,6 +8,11 @@ function DigitalTransformation() {
     <Navbar/>
     
     <Innerheader title="Digital Transformation" />
+    <div className="container-fluid py-5 bg-light">
+      <div className="container">
+        
+      </div>
+    </div>
     <Footer/>
     </>
   )
