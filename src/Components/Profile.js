@@ -22,7 +22,7 @@ function Profile() {
             <div className="topal-btn">
                 <a href="https://www.toptal.com/project-managers/resume/jonathan-bethune" target='_blank'> <Bgbutton name="Topal Resume"/> </a>
             </div>
-        </div>
+            </div>
           </div>
          </div>
       </div>

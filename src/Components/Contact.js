@@ -17,7 +17,7 @@ function Contact() {
                <div className="contact-box">
                <div className="contact-box-inner">
                <i class="fas fa-mobile"></i>
-               <p>+1 923-892-238</p>
+               <p>+1 972 213 2715</p>
                </div>
                </div>
              
@@ -45,7 +45,7 @@ function Contact() {
              <div className="col-md-6 col-lg-5 p-0">
                <div className="map-box">
               
-                <h2>Bethune Consulting</h2>
+               <img src="./assets/images/logo.png" alt="" /> 
 
 
                </div>
@@ -70,7 +70,7 @@ function Contact() {
                    </div>
                    <div className="col-md-12">
                    <div className="form-input">
-                   <textarea name="" id="" placeholder='Message' cols="30" rows="4"></textarea>
+                   <textarea name="" id="" placeholder='Message' cols="30" rows="8"></textarea>
                    </div>
                    </div>
                    <div className="col-md-12">
