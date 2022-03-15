@@ -63,7 +63,7 @@ function Footer() {
                           <i class="fas fa-phone-alt"></i>
                             </div>
                             <div className="address-text">
-                              <span>+1 923-892-238</span>
+                              <span>+1 972 213 2715</span>
                               </div>
                           </div>
                         <div className="address-list">

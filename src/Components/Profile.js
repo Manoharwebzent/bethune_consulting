@@ -8,12 +8,12 @@ function Profile() {
     <div className="profile-container">
     <div className="container py-5">
          <div className="row">
-         <div className="col-md-5 col-lg-5">
+         {/* <div className="col-md-5 col-lg-5">
               <div className="profile-image">
                   <img src="./assets/images/pro.jpg" className='img-fluid' alt="" />
               </div>
-          </div>
-          <div className="col-md-7 col-lg-7">
+          </div> */}
+          <div className="col-md-12 col-lg-12">
         <div className="profile-about">
             <h2 className='clr'>Jonathan Bethune</h2>
             <span className='text-muted'>Project Manager</span>

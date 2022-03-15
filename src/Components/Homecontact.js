@@ -19,7 +19,7 @@ Keep everyone productive<span className='clr'>.</span></h1>
                                     <span><i className='fas fa-phone-alt'></i></span>
                                     </div>
                                     <div className="home-contact-text">
-                                    <p>+1 923-892-238</p>
+                                    <p>+1 972 213 2715</p>
                                     </div>
                                 </div>
                                 <div className="home-contact-icon-box">

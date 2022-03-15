@@ -88,6 +88,11 @@ body,html{
     font-size: 25px;
    
 }
+.navbar-brand img{
+    height: 60px;
+    border-radius: 50%;
+
+}
 .navbar-brand{
     display: flex;
     align-items: center;
